@@ -1,5 +1,5 @@
 # 💫 About Me:
-Salom! Men — Erjas, web dasturlashga qiziqadigan boshlovchi dasturchiman.<br>Asosan HTML va CSS yordamida zamonaviy va chiroyli web sahifalar yaratish ustida ishlayman.<br><br>🌐 Yo‘nalishim: Frontend development<br>💻 Texnologiyalar: HTML | CSS<br>🎯 Maqsadim: Kelajakda Senior dasturlovchi bo'lish !<br>🌱 Hozirda: Web dizayn va responsive saytlar qilishni o‘rganayapman<br>🚀 Kelajakda: JavaScript va boshqa frontend texnologiyalarni o‘rganishni rejalashtirganman<br>🤝 Hamkorlik: oddiy va foydali loyihalarda qatnashishga tayyorman<br>⚡ Fun Fact: Kod yozish men uchun nafaqat ish, balki zavq ham 😊
+Salom! Men — Erjas, web dasturlashga qiziqadigan boshlovchi dasturchiman.<br>Asosan HTML va CSS yordamida zamonaviy va chiroyli web sahifalar yaratish ustida ishlayman.<br><br>🌐 Yo‘nalishim: Frontend development<br>💻 Texnologiyalar: HTML | CSS<br>🎯 Maqsadim: Kelajakda Senior dasturlovchi bo'lish !<br>🌱 Hozirda: Web dizayn va responsive saytlar qilishni o‘rganayapman<br>🚀 Kelajakda: JavaScript va boshqa frontend texnologiyalarni o‘rganishni rejalashtirganman<br>⚡ Fun Fact: Kod yozish men uchun nafaqat ish, balki zavq ham 😊
 
 
 ## 🌐 Socials:
